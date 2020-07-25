@@ -7,3 +7,7 @@ Tim :
 - 1700018091 Iqbal Kurnia Dama.
 - 1700018116 Nanda Suci Pratiwi.
 - 1700018112 Moh Fitri Haiqal HS.
+
+Pemanggilan : http://localhost/bismillah/
+user admin  : admin02@gmail.com
+pass admin  : admin
